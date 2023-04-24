@@ -1,0 +1,28 @@
+==========================================
+SLURM_JOB_ID = 171358
+SLURM_NODELIST = gpu03
+==========================================
+[1,3]<stdout>:cuda
+[1,5]<stdout>:cuda
+[1,6]<stdout>:cuda
+[1,7]<stdout>:cuda
+[1,1]<stdout>:cuda
+[1,2]<stdout>:cuda
+[1,4]<stdout>:cuda
+[1,0]<stdout>:cuda
+[1,2]<stdout>:pre-trained Teacher model is loaded
+[1,2]<stdout>:path : SRGANT.pt
+[1,5]<stdout>:pre-trained Teacher model is loaded
+[1,5]<stdout>:path : SRGANT.pt
+[1,7]<stdout>:pre-trained Teacher model is loaded
+[1,7]<stdout>:path : SRGANT.pt
+[1,1]<stdout>:pre-trained Teacher model is loaded
+[1,1]<stdout>:path : SRGANT.pt
+[1,6]<stdout>:pre-trained Teacher model is loaded
+[1,6]<stdout>:path : SRGANT.pt
+[1,4]<stdout>:pre-trained Teacher model is loaded
+[1,4]<stdout>:path : SRGANT.pt
+[1,3]<stdout>:pre-trained Teacher model is loaded
+[1,3]<stdout>:path : SRGANT.pt
+[1,0]<stdout>:pre-trained Teacher model is loaded
+[1,0]<stdout>:path : SRGANT.pt
