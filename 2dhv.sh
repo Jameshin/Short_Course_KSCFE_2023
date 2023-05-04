@@ -12,7 +12,7 @@
 
 module purge
 
-module load gcc/10.2.0 cuda/11.4 cudampi/openmpi-4.1.1 
+module load python/3.7.1 gcc/10.2.0 cuda/11.4 cudampi/openmpi-4.1.1 
 source activate gs
 
 horovodrun -np 4 python main.py 
