@@ -7,4 +7,4 @@ Three techniques
 2) Pruning
 3) Quantization 
 
-This study has been initially conducted by Sajid Hussain who is UST graduate student in KISTI. 
+This study was initiated by Sajid Hussain who is UST graduate student in KISTI. 
