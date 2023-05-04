@@ -6,3 +6,5 @@ Three techniques
 1) Knowledge Distillation
 2) Pruning
 3) Quantization 
+
+This study has been initially done by Sajid Hussain who is UST researcher in KISTI. 
